@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![git resim](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 # Installation
 öncelikle projeyi clonelayın (https://github.com/EmirhanSen58/kodluyoruzilkrepo)
 ```
