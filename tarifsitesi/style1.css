@@ -1,0 +1,62 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* Beyaz arka plan */
+    color: #ff6600; /* Turuncu metin rengi */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #ff6600; /* Turuncu başlık rengi */
+}
+
+h3 {
+    text-align: center;
+    font-weight: normal;
+    color: #ff6600; /* Turuncu alt başlık rengi */
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #ff6600; /* Turuncu başlık rengi */
+}
+
+b {
+    font-weight: bold;
+}
+
+i {
+    font-style: italic;
+}
+
+nav {
+    text-align: center;
+    color: #ff6600; /* Turuncu metin rengi */
+}
+
+p u {
+    font-weight: bold;
+}
+
+ul, ol {
+    padding-left: 20px;
+    color: #ff6600; /* Turuncu metin rengi */
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+/* Malzeme listesi için turuncu noktalar ekleyin */
+ul li:before {
+    content: "\2022";
+    color: #ff6600; /* Turuncu renk */
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
